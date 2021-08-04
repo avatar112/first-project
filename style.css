@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mainbg{
+    background-image: url(https://hdwallsource.com/img/2020/9/luxury-house-desktop-wallpaper-70414-72801-hd-wallpapers.jpg);
+    background-position: fixed;
+    height: 70vh;
+}
+li{
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+    color: white;
+}
+.navbar{
+    flex: 1;
+    text-align: right;
+    margin-right: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.btn{
+    border-radius: 13px;
+    background-color: tomato;
+    color: white;
+    width: 100px;
+    height: 3vh;
+    border: none;
+}
+.categories{
+    background-color: rgba(179, 178, 178, 0.418);
+    height: 9vh;
+    text-align: center;
+    opacity: 0.7;
+    width: 800px;
+    padding-bottom: 400px;
+    margin-top: px;
+    
+}
+.ul2{
+    text-align: left;
+    color: white;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+input{
+    width: 390px;
+    padding-right: 260px;
+    height: 3vh;
+}
+.btn-2{
+    margin-right: 00px;
+    width: 90px;
+    height: 3.4vh;
+    background-color: tomato;
+    border: none;
+    color: white;
+    text-align: center;
+    border: white;
+    border: solid;
+}
+.column{
+    color: white;
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-evenly;
+    width: 900px;
+    margin: auto;
+    padding-top: 80px;
+}
+.stroke-1{
+    background-color: white;
+    border: solid;
+}
+.stroke-2{
+    background-color: white;
+    border: solid;
+}
+.stroke-3{
+    background-color: white;
+    border: solid;
+}
+.container-2{
+    display: flex;
+    margin-left: 150px;
+}
+.row{
+    margin: 5px;
+    
+}
+h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info{
+    padding-top: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+i{
+    align-items: right;
+    float: right;
+    color: red;
+}
+
